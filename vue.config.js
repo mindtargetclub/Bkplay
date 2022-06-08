@@ -14,7 +14,7 @@ module.exports = {
     productionSourceMap: false,
     devServer: {
       open: process.platform === "darwin",
-      port: 8081,
+      port: 8080,
       https: false,
       hotOnly: false,
       proxy: null,
