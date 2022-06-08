@@ -6,7 +6,7 @@
 
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/17sooo/'
+    ? '/Bkplay/'
     : '/' ,
     outputDir: "dist",
     lintOnSave: true,
